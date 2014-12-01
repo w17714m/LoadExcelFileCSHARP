@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="uploadFile_ExcelABD.Archivo">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BABAABAAAAJAAAAAAAIAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controler\Archivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uploadFile_ExcelABD.Lector">
+    <Position X="5.5" Y="0.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>QABAoAgAAAAAAAQCAAAAAAAAAAIAAAAAAACAAAAAAQA=</HashCode>
+      <FileName>Controler\Lector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
